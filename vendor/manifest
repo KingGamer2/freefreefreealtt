@@ -1,0 +1,29 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/alexbrainman/sspi",
+			"repository": "https://github.com/alexbrainman/sspi",
+			"revision": "05f02589e649d91a0b4cdea4bb46e7c64d94862a",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/cznic/b",
+			"repository": "https://github.com/cznic/b",
+			"revision": "bcff30a622dbdcb425aba904792de1df606dab7c",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gorilla/websocket",
+			"repository": "https://github.com/gorilla/websocket",
+			"revision": "2d1e4548da234d9cb742cc3628556fef86aafbac",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kalokng/fetch",
+			"repository": "https://github.com/kalokng/fetch",
+			"revision": "1e5a6eed4a2a0eb1c5d9a7b5a88873eeecb2070d",
+			"branch": "master"
+		}
+	]
+}
